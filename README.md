@@ -1,4 +1,4 @@
-# Golang OAuth 2.0 Server
+# Golang OAuth 2.0 Server Adaptive
 
 > An open protocol to allow secure authorization in a simple and standard method from web, mobile and desktop applications.
 
